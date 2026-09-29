@@ -1,0 +1,27 @@
+# Data and outputs
+*.dcd
+*.pdb
+*.npy
+*.json
+*.csv
+*.png
+*.pdf
+*.docx
+*.jpg
+*.jpeg
+*.tiff
+
+# Revision manuscript/figure files
+Revision/figures/
+Revision/*.docx
+Revision/figures
+
+# Large data dirs
+data/
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
